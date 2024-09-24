@@ -1,5 +1,5 @@
 # PCA: EXP-1  SUM ARRAY GPU
-<h3>NAME : E Kamalesh D</h3>
+<h3>NAME : E Kamalesh </h3>
 <h3>REGISTER NUMBER : 212222100019</h3>
 
 
